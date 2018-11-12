@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Salao App</string>
+    <string name="id_user_app">id_user_app</string>
+    <string name="server_client_id">554941889579-2or15ailqvk7hprrs2mtuo1q1d9debsi.apps.googleusercontent.com</string>
+    <string name="fb_login_protocol_scheme">fb305650703498264</string>
+    <string name="appHashSha">umgw24c2FIsOSmLlefv71Oiv+vo=</string>
+    <string name="username_app"></string>
+    <string name="email_app"></string>
+    <string name="key_app"></string>
+</resources>
